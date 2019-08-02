@@ -1,0 +1,44 @@
+*{
+  max-width: 400px;
+}
+.container{
+border-radius: 5px;
+
+}
+
+.card{
+  max-width: 400px;
+  margin: 0px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.title{
+  color: grey;
+  font-size: 18px;
+}
+
+p{
+  font-size: 18px;
+}
+
+h2{
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.footer{
+  font-size: 20px;
+  text-align: center;
+}
+
+.footer p{
+  font-size: 18px;
+}
+
+.list{
+  text-align: left;
+}
